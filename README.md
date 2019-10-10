@@ -1,5 +1,5 @@
 # zig-neb
 
-playing around with coding
+This repository is for playing around with coding.
 
-This is a playground for different coding problems.
+Will be used as a playground for different coding problems.
